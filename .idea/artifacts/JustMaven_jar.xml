@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="JustMaven:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/JustMaven_jar</output-path>
+    <root id="archive" name="JustMaven.jar">
+      <element id="module-output" name="JustMaven" />
+    </root>
+  </artifact>
+</component>
